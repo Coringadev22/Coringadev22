@@ -16,14 +16,18 @@ Sou aluno do bootcamp da **TripleTen** em Ciência de Dados, com foco em IA apli
 
 ## 🚀 Tecnologias que utilizo
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-ff6d00?style=for-the-badge&logo=n8n&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Z-API](https://img.shields.io/badge/Z--API-1C1C1C?style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+[![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org/)
+[![NumPy](https://img.shields.io/badge/NUMPY-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org/)
+[![Scikit-Learn](https://img.shields.io/badge/SKLEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org/)
+[![Matplotlib](https://img.shields.io/badge/MATPLOTLIB-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org/)
+[![Seaborn](https://img.shields.io/badge/SEABORN-2D3F70?style=for-the-badge)](https://seaborn.pydata.org/)
+[![Jupyter](https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org/)
+[![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)](https://www.tensorflow.org/)
+[![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![OpenAI](https://img.shields.io/badge/OPENAI-412991?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/)
+[![MLflow](https://img.shields.io/badge/MLFLOW-0194E2?style=for-the-badge)](https://mlflow.org/)
+
 
 ---
 
