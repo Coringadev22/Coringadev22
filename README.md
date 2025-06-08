@@ -72,6 +72,9 @@ Novos projetos com:
 
 ---
 
+![snake gif](https://github.com/Coringadev22/Coringadev22/blob/output/github-contribution-grid-snake.svg)
+
+
 *Obrigado por visitar meu perfil! Fique à vontade para explorar os repositórios 👇 e me chamar se quiser conversar sobre IA, negócios ou collabs!*
 
 <p align="left">
