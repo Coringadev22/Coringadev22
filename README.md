@@ -10,7 +10,7 @@ Comecei no mundo dos negócios com barbearias, hamburguerias e lojas físicas. C
 
 Hoje desenvolvo **agentes inteligentes**, **bots comerciais**, **robôs financeiros**, **dashboards em tempo real** e **integrações com APIs e bancos de dados** — tudo conectado à vida real dos empreendedores.
 
-Sou aluno do bootcamp da **TripleTen** em Ciência de Dados, com foco em IA aplicada, análise preditiva e criação de produtos com machine learning.
+Sou Cientista de Dados, com foco em IA aplicada, análise preditiva e criação de produtos com machine learning.
 
 ---
 
